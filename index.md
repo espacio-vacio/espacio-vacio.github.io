@@ -1,5 +1,4 @@
-# espacio-vacio.github.io
-#Belen's Portfolio
+# Belen's Portfolio
 Hello! My name is Belen Saldana, it's my first semester at Cal State Fullerton, and I'm majoring in computer science.  This is my introduction to coding, and I'm learning a lot.  
 ## Lab Reflections
 
